@@ -21,5 +21,5 @@ High school project from 2015. iOS application controlling small robotic car via
   - Response (response in english)
   
   
-<img src="_MarkdownImages/SRC_screen1.PNG" align="left" width="412" >
-<img src="_MarkdownImages/SRC_screen2.PNG" width="412" >
+<img src="_MarkdownImages/SRC_screen1.png" align="left" width="412" >
+<img src="_MarkdownImages/SRC_screen2.png" width="412" >
