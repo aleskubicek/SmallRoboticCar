@@ -22,12 +22,7 @@ High school project from 2015. iOS application controlling small robotic car via
   
 &nbsp;
 
-
-
-<p align="center">
-  <img src="_MarkdownImages/SRC_screen1.png" align="left" width="412" >
-  <img src="_MarkdownImages/SRC_screen2.png" width="412" >
-  <img src="_MarkdownImages/SRC_img1.jpg" width="300">
-</p>
+<img src="_MarkdownImages/SRC_screen1.png" align="left" width="412" >
+<img src="_MarkdownImages/SRC_screen2.png" width="412" >
 
 
