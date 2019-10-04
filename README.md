@@ -20,7 +20,14 @@ High school project from 2015. iOS application controlling small robotic car via
   - Information sent (what data is sent by Bluetooth 4.0 to the robot, when command recognized)
   - Response (response in english)
   
+&nbsp;
 
 
-<img src="_MarkdownImages/SRC_screen1.png" align="left" width="412" >
-<img src="_MarkdownImages/SRC_screen2.png" width="412" >
+
+<p align="center">
+  <img src="_MarkdownImages/SRC_screen1.png" align="left" width="412" >
+  <img src="_MarkdownImages/SRC_screen2.png" width="412" >
+  <img src="_MarkdownImages/SRC_img1.png" width="300">
+</p>
+
+
